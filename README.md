@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gareth</h1>
-<h3 align="center">Web3 Solutions Architect, dedicated to implementing solutions that adhere to Singapore's financial regulations.</h3>
+<h3 align="center">Web3 Solutions Architect @ Symphony Digital Assets, dedicated to implementing solutions that adhere to Singapore's financial regulations.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
